@@ -1,20 +1,24 @@
 <h1 align="center">Olá! Eu sou o Luan Marcelino </h1>
 
-## Sobre mim
-<p>Sou formado em licenciatura em Física e em Matemática pela UFRN, entusiasta de linguagens de programação e robótica. Durante a graduação, participei de diversos projetos envolvendo o uso de tecnologia no ensino de física e de matemática, e hoje tenho grande interesse em me dedicar à área da tecnologia.</p>
-<p>A capacidade de modelar problemas reais e aplicar ferramentas matemáticas para sua solução é a principal habilidade desenvolvida na física, já a matemática é completamente voltada para o uso da lógica na resolução de problemas, e estas bagagens se mostram excepcionalmente valiosas quando aplicadas ao trabalho com linguagens de programação.</p>
-<p>Atualmente me dedico principalmente ao estudo de python, mas possuo experiência com C (linguagem principal usada na disciplina de Linguagens de Programação na UFRN) e C++ (linguagem principal usada no desenvolvimento e projetos com Arduino). Pretendo me formar também em Análise e Desenvolvimento de Sistemas, o que acredito que irá fortalecer a minha base em linguagens de programação, além de promover habilidades e abrir novo horizontes no mercado de trabalho.</p>
-<p>Você pode encontrar mais detalhes sobre as minhas ações e contribuições no GitHub a partir dos quadros abaixo, bem como me contactar caso tenha interesse em realizar alguma atividade junto a mim. Desde já, obrigado.</p>
+## 👨‍💼 Sobre mim
+<p>Atualmente cursando Análise e Desenvolvimento de Sistemas na UFRN, trago comigo uma base sólida como graduado em Física e Matemática pela mesma instituição. Sou apaixonado por robótica e automações, tendo participado de diversos projetos e atividades envolvendo o uso de tecnologia no ensino de física e de matemática durante as estas duas primeiras graduações, o que alimentou meu interesse em me dedicar à área da tecnologia. Esta rica bagagem também concede valiosas vantagens no mundo da programação, pois me permitiu construir habilidades cobiçadas na área quando se trata de resolução de problemas.</p>
+
+### ⭐ Diferenciais
+
+<p> ✅ Raciocínio Lógico e Abstração: Facilidade em modelar problemas complexos e arquitetar soluções eficientes.</p>
+<p> ✅ Base Matemática: Domínio natural para trabalhar com Algoritmos, Ciência de Dados, Computação Gráfica e Otimização.</p>
+<p> ✅ Visão Analítica: Experiência em investigação científica aplicada agora ao desenvolvimento de software de alta qualidade.</p>
+<p>Você pode encontrar mais detalhes sobre mim e minhas ações e contribuições no GitHub a partir dos quadros abaixo, bem como pode me contactar caso tenha interesse em realizar alguma atividade junto a mim. Desde já, obrigado.</p>
 
 ##
 
-### Habilidades
+### 👨‍💻 Habilidades
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Sistemas utilizados
+### 🖥️ Sistemas utilizados
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) 
@@ -25,12 +29,12 @@
 
 ##
 
-### GitHub Streak
+### ⏭️ GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Luska713&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-## Contato
+## 📞 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-marcelino-490660147/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@luska713/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luanmarcelino713@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@luska713/)
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/lmarcelino713)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55849962031880)
