@@ -3,7 +3,7 @@
 ## 👨‍💼 Sobre mim
 <p>Atualmente cursando Análise e Desenvolvimento de Sistemas na UFRN, trago comigo uma base sólida como graduado em Física e Matemática pela mesma instituição. Sou apaixonado por robótica e automações, tendo participado de diversos projetos e atividades envolvendo o uso de tecnologia no ensino de física e de matemática durante as estas duas primeiras graduações, o que alimentou meu interesse em me dedicar à área da tecnologia. Esta rica bagagem também concede valiosas vantagens no mundo da programação, pois me permitiu construir habilidades cobiçadas na área quando se trata de resolução de problemas.</p>
 
-### ⭐ Diferenciais
+### ⭐ Habilidades
 
 <p> ✅ Raciocínio Lógico e Abstração: Facilidade em modelar problemas complexos e arquitetar soluções eficientes.</p>
 <p> ✅ Base Matemática: Domínio natural para trabalhar com Algoritmos, Ciência de Dados, Computação Gráfica e Otimização.</p>
@@ -12,7 +12,7 @@
 
 ##
 
-### 👨‍💻 Habilidades
+### 👨‍💻 Linguagens
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
