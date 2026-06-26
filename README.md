@@ -32,7 +32,7 @@
 
 ##
 
-### 👨‍💻 Linguagens de Programação / <i>Programming Languages</i>
+### 👨‍💻 Principais Linguagens de Programação / <i>Main Programming Languages</i>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,7 +40,7 @@
 
 ##
 
-### 🖥️ Sistemas Operacionais Conhecidos / <i>Known Operating Systems</i>
+### 🖥️ Domínio de Sistemas Operacionais / <i>Mastery of Operating Systems</i>
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) 
